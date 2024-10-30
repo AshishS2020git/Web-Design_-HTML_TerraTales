@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    padding: 20px;
+    background-size:cover;
+    background-blend-mode:darken;
+    background-image:url("https://64.media.tumblr.com/046b284eaefca5cb359d496e2e444690/5bf88dbef5e14806-d3/s540x810/ead1583bcefaafaeccbcfaa8be0f47750162fb81.gifv");
+}
+
+.First{
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    padding: 15px;
+    
+    background-color:#ffffff;
+}
+
+button{
+    
+    background-color:green;
+    text-align:center;
+    color:#e0f7fa;
+    font-size: 25px;
+    margin: 50px 20px;
+    cursor:pointer;
+}
+.Firstdiv{
+
+    font-size:20px;
+    color:#e0f7fa;
+    
+}
+
+
+button:hover{
+    background-image: url("https://i.gifer.com/origin/1d/1dde0e68d1b593c73881b99218649fde_w200.gif");
+}
+
+
+
+.Image {
+    margin:20px;
+    word-spacing: 15px;
+    
+    
+}
+
+.pic{
+    border-radius:5px;
+    border:solid black 2px;
+}
+.Second{
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    padding: 15px;
+    
+    background-color:#ffffff;
+}
+
+header {
+    background: #2a9d8f;
+    color: whitesmoke;
+    padding: 10px 100px;
+    text-align: center;
+    border: 2px solid darkblue; 
+    border-radius: 5px; 
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #2a9d8f;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
